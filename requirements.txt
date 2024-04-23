@@ -2,3 +2,4 @@ Django==4.2.11
 mongoengine==0.28.2
 python-dotenv==1.0.1
 Requests==2.31.0
+gunicorn
