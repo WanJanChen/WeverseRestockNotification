@@ -1,5 +1,4 @@
-Django==5.0.4
+Django==4.2.11
 mongoengine==0.28.2
+python-dotenv==1.0.1
 Requests==2.31.0
-schedule==1.2.1
-gunicorn
