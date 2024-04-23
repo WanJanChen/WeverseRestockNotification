@@ -1,0 +1,5 @@
+Django==5.0.4
+mongoengine==0.28.2
+Requests==2.31.0
+schedule==1.2.1
+gunicorn
