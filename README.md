@@ -1,5 +1,7 @@
 # Python網頁爬蟲結合Line Notify通知小練習
 
+*目前Line Notify已停止服務，本功能也已經無法使用囉！
+
 使用Python的DJango框架，進行Weverse Shop指定商品頁面的爬蟲，<br>
 當商品貨況改變時，就使用Line Notify發送貨況通知。<br><br>
 
@@ -13,6 +15,5 @@
 * 商品售罄通知<br>
   <img src="https://github.com/WanJanChen/WeverseRestockNotification/blob/main/image/soldout.jpg" height="786px" width="500px" />
   <br><br>
-後續可能會再進行功能增修。
 <br><br>
 
